@@ -18,12 +18,7 @@ Ii is the ionic current density (inward current positive); V is the displacement
   - There is no simple way of estimating the error introduced by this approximation, but it is not thought to be large since the time course of the capacitative surge was reasonably close to that calculated for a perfect condenser (Hodgkin et al.
   - The ionic conductances The discussion in Part I shows that there is little hope of calculating the time course of the sodium and potassium conductances from first principles.
   - A similar assumption using a cube instead of a fourth power describes the initial rise of sodium con-ductance, but a term representing inactivation must be included to cover the behaviour at long times.
-  - The potassium conductance The formal assumptions used to describe the potassium conductance are:
-- n4
-(6)
-dn
-ddn=n (1-n)-Bnn,
-(7 )
+  - The potassium conductance The formal assumptions used to describe the potassium conductance are: - n4 (6) dn ddn=n (1-n)-Bnn, (7 )
 where g is a constant with the dimensions of conductance/cm2, cx and /n are rate constants which vary with voltage but not with time and have
 dimensions of [time]-', n is a dimensionless variable which can vary between 0 and 1.
   - The time scale applies to all records.
